@@ -23,8 +23,8 @@ repository               : "https://github.com/grapeluver5/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
+  name             : "Hero Czarnik" #update
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
