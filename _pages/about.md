@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ---
-My name is Hero Czarnik. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department(https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science and Music.
+My name is Hero Czarnik. I’m a Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science and Music.
 
 Research 
 ---
