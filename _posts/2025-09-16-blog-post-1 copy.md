@@ -28,6 +28,8 @@ P3 Challenge: Students will more than likely already be exposed to lots of misin
 
 More conclusively, this article falls prey to bandwagoning, arguing that the forced injection of AI by companies into every aspect of our lives means we should be explicitly taught to accept it as is and learn when it could be wrong, instead of more-broadly educating students on ethical issues already present in media and society and inderectly being equipped to identify such issues also present in AI.
 
+C2: Ethics and bias detection should be taught outside of the scope of AI so students can more appropriately challenge real-life occurences of them. They would still be able to apply that knowledge to AI tools, while having a broader impact.
+
 Alternative Solution
 ---
 I do agree that students who plan to use AI to assist with their work should understand the limitations it has, but not all students need to be equipped with this knowledge as not everyone is going to use it. In regards to the ethical dilemmas posed by these language models, it would go a much longer way to teach students to identify misinformation and bias in media; that way everyone has something to gain, and those who are using AI will still meet the criteria set by the article. This is all to say that ethics should be taught outside of the AI bubble so it’s inclusive to people in every field. AI has the power to reduce the monotony of many jobs, but it shouldn’t be treated as the be-all-end-all of efficiency, and shouldn’t be discussed as a firm requirement for everyone to use now.
