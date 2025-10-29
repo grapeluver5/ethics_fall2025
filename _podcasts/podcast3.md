@@ -12,6 +12,5 @@ This week, Damien Jackson and I talk about some recent cases in which generative
 
 ---
 According to a 2025 paper, AI-based phishing scams have a click-through rate of approximately 54%.
-By comparison, phishing content produced manually results in a 12% click-through rate.
-
+By comparison, phishing content produced manually results in a 12% click-through rate. <br>
 ![](/images/500x300.png)
