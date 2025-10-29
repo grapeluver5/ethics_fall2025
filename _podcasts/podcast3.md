@@ -3,7 +3,7 @@ title: "Podcast 3"
 collection: podcasts
 permalink: /podcasts/podcast3
 excerpt: "Discussing recent uses of generative AI in scams"
-date: 2025-10-12
+date: 2025-10-28
 audio: ethics_fall2025/files/Czarnik_Jackson_Podcast3.mp3
 video: ethics_fall2025/files/Czarnik_Jackson_Podcast3.mp4
 ---
