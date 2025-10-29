@@ -1,5 +1,5 @@
 ---
-title: "Podcast 2"
+title: "Podcast 3"
 collection: podcasts
 permalink: /podcasts/podcast3
 excerpt: "Discussing recent uses of generative AI in scams"
