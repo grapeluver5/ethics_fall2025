@@ -1,19 +1,13 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "Analyzing Artificial Intelligence's Implications on Minimum Wage Labor"
 author_profile: true
 ---
 
-Drop spot for your case study work
+## Abstract
 
-## Overview
+As artificial intelligence continues to develop at a rapid rate, people have begun to worry about the substantial loss of jobs due to it. One implication that is often left unconsidered, however, is the *shift* in employment from one field to another. In the following case study, I examine Amazon’s implementation of their Just Walk Out technology and how it relocated work from in-store cashiers to exploited overseas data workers. Through covering this, I examine the broader impact of artificial intelligence on the labor market, its targeted harm on minimum-wage employees and data workers, and offer a solution moving forward.
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
-
-## Requirements
-
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
 
 [Go to activity page](activity/)
 
