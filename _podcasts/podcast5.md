@@ -8,7 +8,8 @@ audio: ethics_fall2025/files/Czarnik_Jackson_Podcast5.mp3
 video: ethics_fall2025/files/Czarnik_Jackson_Podcast5.mp4
 ---
 
-This week, Damien Jackson and I talk about memes in regards to a case study by Stephen Best, Mia You, and Damon Ross Young. We cover many examples including some of our favorites, and further discuss their impact on the broader society. This is our final podcast together and we had lots of fun recording it! Thanks once again for tuning in; catch you on the flip side.
+This week, Damien Jackson and I talk about memes in regards to an article by [Stephen Best, Mia You, and Damon Ross Young.](https://online.ucpress.edu/representations/article/168/1/1/203766/Meme-Aesthetics)
+We cover many examples including some of our favorites, and further discuss their impact on the broader society. This is our final podcast together and we had lots of fun recording it! Thanks once again for tuning in; catch you on the flip side.
 
 Provided below are some of the memes discussed in the podcast (in no particular order):
 ---
