@@ -31,6 +31,9 @@ Over the past decade, artificial intelligence has seen an unprecedented boom in 
 
 First introduced in 2018, Amazon started implementing the technology in their own Amazon Fresh stores, and promoting the feature to the public as the “future of retail” [[1](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/pdf/tlvknckgyj)]. For a while, the technology persisted without much of a second thought; as advertised, people could simply grab items and walk out, charging the items to their Amazon account. Various people would share their attempts at trying to trick the system and take items for free, but speculation would not arise for some time as it would be revealed that Amazon was not being completely transparent about *how* this technology was truly functioning. As it turns out, the supposed fully-automated system often needed reviewing by Amazon’s team in India. In fact, in 2022 it was reported that nearly 700 of every 1000 orders had to be reviewed, whereas Amazon had hoped that only 50 of every 1000 orders would necessitate reviewing by that point [[3](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/html/6iieaqtnhj)]. At the time this information was released, people began referring to Amazon’s AI technology as “absent Indians” [[2](https://www.proquest.com/ataindex/docview/3052557259/4F010850C79A4050PQ/5?accountid=351&sourcetype=Magazines)] and “human babysitters”. [[1](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/pdf/tlvknckgyj)] A spokesperson for Amazon would go on to confirm the use of human moderators, but would not comment on the scale of the operation. By 2024, Amazon had begun to phase out the technology [[4](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/html/ml74dcnjvr)], but they continue to license it out to other retailers to this day.
 
+<br>
+![](/ethics_fall2025/casestudy/justwalkout.png/)
+
 ---
 
 ## Why does this matter?
@@ -43,11 +46,16 @@ All of this is to say that if this infrastructure continues to develop and be in
 
 [Go to Business Owners](/ethics_fall2025/casestudy/stakeholder2/)
 
+<br>
+![](/ethics_fall2025/casestudy/dataworkers.png/)
+
+
 ---
 
 ## Looking to the future
 
 It should be noted that some of this is speculation as it hasn’t all happened yet, but my goal in this study was to be realistic in the conclusions drawn based on Amazon’s track record and the various sources referenced. It’s very easy for people to see how jobs can be replaced by actual fully-fledged artificial intelligence systems, but not as often considered is how pseudo-AI can do the same. As mentioned before, Amazon themselves have ditched *Just Walk Out* in their own stores, but they’ve continued to allow third-party retailers to continue using it, and have even expanded its reach since. Though it’s only in its early stages of development, it’s clear to see where this kind of technology is trying to take us. What’s most surprising about this technology specifically though is that there is already a widely implemented system for cashierless shopping that is far more robust than hundreds of cameras watching every move you make. The system essentially involves a shopping cart/basket with a scanner that will detect chips embedded in product packaging once you put them inside, and will charge you at the end. “It's the same type of tech I used last week at the big Tesco in Edmonton, so it's hardly cutting edge; it's really just a self-checkout you push on a trolley.” [[2](https://www.proquest.com/ataindex/docview/3052557259/4F010850C79A4050PQ/5?accountid=351&sourcetype=Magazines)] 
+
 This opens up to the broader discussion on pseudo-ai and why it’s being implemented in the first place if it’s not even the best solution. There’s a similar debate going on around driver-less vehicles that are actually, in fact, often controlled by remote drivers. And even the fact that most basic model training requires human labor to label data. When you reach a point where humans’ only work is to train and control models remotely while the models themselves do all of the specialized, interesting work, what is the point? Well, I believe what these companies are trying to do is appease shareholders more than anything else. We’re reaching a point where it’s difficult for companies to optimize their process much further, so they’ve begun to try and solve artificial issues through AI that isn’t fully developed to make it seem like they’re still accomplishing better and better things. This likely works for a little while, but eventually they will reach a point like Amazon did where the truth comes out and they’re exposed for misleading consumers and shareholders alike.
 
 ---
