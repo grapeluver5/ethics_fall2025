@@ -4,7 +4,7 @@ title: "Analyzing Artificial Intelligence's Implications on Minimum Wage Labor"
 author_profile: true
 ---
 
-(Note: Case study is still WIP and will be finalized on the 15th)
+
 
 ## Abstract
 
@@ -32,7 +32,7 @@ Over the past decade, artificial intelligence has seen an unprecedented boom in 
 First introduced in 2018, Amazon started implementing the technology in their own Amazon Fresh stores, and promoting the feature to the public as the “future of retail” [[1](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/pdf/tlvknckgyj)]. For a while, the technology persisted without much of a second thought; as advertised, people could simply grab items and walk out, charging the items to their Amazon account. Various people would share their attempts at trying to trick the system and take items for free, but speculation would not arise for some time as it would be revealed that Amazon was not being completely transparent about *how* this technology was truly functioning. As it turns out, the supposed fully-automated system often needed reviewing by Amazon’s team in India. In fact, in 2022 it was reported that nearly 700 of every 1000 orders had to be reviewed, whereas Amazon had hoped that only 50 of every 1000 orders would necessitate reviewing by that point [[3](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/html/6iieaqtnhj)]. At the time this information was released, people began referring to Amazon’s AI technology as “absent Indians” [[2](https://www.proquest.com/ataindex/docview/3052557259/4F010850C79A4050PQ/5?accountid=351&sourcetype=Magazines)] and “human babysitters”. [[1](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/pdf/tlvknckgyj)] A spokesperson for Amazon would go on to confirm the use of human moderators, but would not comment on the scale of the operation. By 2024, Amazon had begun to phase out the technology [[4](https://research-ebsco-com.content.elibrarymn.org/c/nfiawx/viewer/html/ml74dcnjvr)], but they continue to license it out to other retailers to this day.
 
 <br>
-![](/pics/justwalkout.png/)
+![](/images/justwalkout.png/)
 
 ---
 
@@ -47,7 +47,7 @@ All of this is to say that if this infrastructure continues to develop and be in
 [Go to Business Owners](/ethics_fall2025/casestudy/stakeholder2/)
 
 <br>
-![](/pics/dataworkers.png/)
+![](/images/dataworkers.png/)
 
 
 ---
