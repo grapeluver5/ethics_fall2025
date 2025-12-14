@@ -8,7 +8,7 @@ author_profile: true
 
 ## Abstract
 
-As artificial intelligence continues to develop at a rapid rate, people have begun to worry about the substantial loss of jobs due to it. One implication that is often left unconsidered, however, is the *shift* in employment from one field to another. In the following case study, I examine Amazon’s implementation of their Just Walk Out technology and how it relocated work from in-store cashiers to overseas data workers. Through covering this, I examine the broader impact of the technology on the labor market, its targeted harm on minimum-wage employees and data workers, the impact on businesses using it, and examine the future of it.
+As artificial intelligence continues to develop at a rapid rate, people have begun to worry about the substantial loss of jobs due to it. One implication that is often left unconsidered, however, is the *shift* in employment from one field to another. In the following case study, I examine Amazon’s implementation of their Just Walk Out technology and how it relocated work from in-store cashiers to overseas data workers. Through covering this, I examine the broader impact of the technology on the labor market, its targeted harm on minimum-wage employees and data workers, the impact on businesses using it, and examine where it might be headed.
 
 ---
 Learning Objectives
@@ -47,7 +47,21 @@ All of this is to say that if this infrastructure continues to develop and be in
 
 ## Looking to the future
 
-It should be noted that some of this is speculation as it hasn’t all happened yet, but my goal in this study was to be realistic in the conclusions drawn based on Amazon’s track record and the various sources referenced. It’s very easy for people to see how jobs can be replaced by actual fully-fledged artificial intelligence systems, but not as often considered is how pseudo-AI can do the same. As mentioned before, Amazon themselves have ditched *Just Walk Out* in their own stores, but they’ve continued to allow third-party retailers to continue using it, and have even expanded its reach since. Though it’s only in its early stages of development, it’s clear to see where this kind of technology is trying to take us.
+It should be noted that some of this is speculation as it hasn’t all happened yet, but my goal in this study was to be realistic in the conclusions drawn based on Amazon’s track record and the various sources referenced. It’s very easy for people to see how jobs can be replaced by actual fully-fledged artificial intelligence systems, but not as often considered is how pseudo-AI can do the same. As mentioned before, Amazon themselves have ditched *Just Walk Out* in their own stores, but they’ve continued to allow third-party retailers to continue using it, and have even expanded its reach since. Though it’s only in its early stages of development, it’s clear to see where this kind of technology is trying to take us. What’s most surprising about this technology specifically though is that there is already a widely implemented system for cashierless shopping that is far more robust than hundreds of cameras watching every move you make. The system essentially involves a shopping cart/basket with a scanner that will detect chips embedded in product packaging once you put them inside, and will charge you at the end. “It's the same type of tech I used last week at the big Tesco in Edmonton, so it's hardly cutting edge; it's really just a self-checkout you push on a trolley.” [[2](https://www.proquest.com/ataindex/docview/3052557259/4F010850C79A4050PQ/5?accountid=351&sourcetype=Magazines)] 
+This opens up to the broader discussion on pseudo-ai and why it’s being implemented in the first place if it’s not even the best solution. There’s a similar debate going on around driver-less vehicles that are actually, in fact, often controlled by remote drivers. And even the fact that most basic model training requires human labor to label data. When you reach a point where humans’ only work is to train and control models remotely while the models themselves do all of the specialized, interesting work, what is the point? Well, I believe what these companies are trying to do is appease shareholders more than anything else. We’re reaching a point where it’s difficult for companies to optimize their process much further, so they’ve begun to try and solve artificial issues through AI that isn’t fully developed to make it seem like they’re still accomplishing better and better things. This likely works for a little while, but eventually they will reach a point like Amazon did where the truth comes out and they’re exposed for misleading consumers and shareholders alike.
+
+---
+
+## What you can do
+
+If you don’t find yourself directly affected by what was discussed in this study, it may be hard to care about the issues that were brought up. I argue though that both real and pseudo AI have the ability to replace the work of nearly anyone. This is not to say that it is capable of doing a *better* job than humans, but that big tech has shown time and time again that it’s willing to take any measures necessary to force this misguided “innovation” upon all of us whether we like it or not. Currently there’s very little that one could do to retaliate, but legislation is continually being proposed to counteract this technology from wholly consuming all of us. The best you can do is call your local representatives to express your concerns, and to stop supporting companies pushing this technology as much as you can. 
+
+
+---
+
+## Conclusion
+
+AI’s rapid development will likely never subside unless restrictive enough laws are passed, so the future of where we’re headed is still undecided. It’s clear though that users are starting to become fed up with it though, and many are expressing their concerns. Although Amazon themselves has stopped using the Just Walk Out technology, it continues living on in other stores and more pseudo-AI like it will continue to crop up as time goes on. What needs to happen going forward is proper legislation around it, and especially around the protection of data workers.
 
 ---
 
