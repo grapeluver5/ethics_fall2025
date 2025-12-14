@@ -2,10 +2,9 @@
 permalink: /casestudy/
 title: "Analyzing Artificial Intelligence's Implications on Minimum Wage Labor"
 author_profile: true
-audio: ethics_fall2025/files/case_study_audio.mp3
 ---
 
-
+[Listen to an audio version of the case study here](https://drive.google.com/file/d/1OHEflSr7thgq9ibkSEyCzOtWwhXOZY2C/view?usp=sharing)
 
 ## Abstract
 
