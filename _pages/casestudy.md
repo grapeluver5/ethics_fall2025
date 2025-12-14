@@ -4,9 +4,20 @@ title: "Analyzing Artificial Intelligence's Implications on Minimum Wage Labor"
 author_profile: true
 ---
 
+(Note: Case study is still WIP and will be finalized on the 15th)
+
 ## Abstract
 
 As artificial intelligence continues to develop at a rapid rate, people have begun to worry about the substantial loss of jobs due to it. One implication that is often left unconsidered, however, is the *shift* in employment from one field to another. In the following case study, I examine Amazon’s implementation of their Just Walk Out technology and how it relocated work from in-store cashiers to overseas data workers. Through covering this, I examine the broader impact of the technology on the labor market, its targeted harm on minimum-wage employees and data workers, the impact on businesses using it, and examine the future of it.
+
+---
+Learning Objectives
+
+- To introduce readers to the downsides of AI systems’ implementation in physical stores
+
+- To demonstrate the importance of physical employees as a part of a positive shopping experience
+
+- To educate readers on the exploitation of data workers overseas
 
 ## Case Study
 
@@ -25,6 +36,13 @@ All of this is to say that if this infrastructure continues to develop and be in
 
 It should be noted that some of this is speculation as it hasn’t all happened yet, but my goal in this study was to be realistic in the conclusions drawn based on Amazon’s track record and the various sources referenced. It’s very easy for people to see how jobs can be replaced by actual fully-fledged artificial intelligence systems, but not as often considered is how pseudo-AI can do the same. As mentioned before, Amazon themselves have ditched *Just Walk Out* in their own stores, but they’ve continued to allow third-party retailers to continue using it, and have even expanded its reach since. Though it’s only in its early stages of development, it’s clear to see where this kind of technology is trying to take us.
 
+---
+Activity
+
+
+To help illustrate how underpaid data workers are, I have created a small game that allows you to take the place of a remote cashier reviewing orders in a grocery store. You can play it here: 
+https://studio.code.org/projects/applab/m5GiGGxkOGNgLzk9sJ3Y56rhjXop6fy91gCPPyORyEc
+(this will become its own page with a more in-depth explanation.)
 
 ---
 Discussion Questions

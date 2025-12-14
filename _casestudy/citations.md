@@ -1,6 +1,6 @@
 ---
 title: "Citations"
-layout: default
+layout: archive
 ---
 
 
