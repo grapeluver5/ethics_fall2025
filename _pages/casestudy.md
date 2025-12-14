@@ -40,9 +40,8 @@ It should be noted that some of this is speculation as it hasn’t all happened 
 Activity
 
 
-To help illustrate how underpaid data workers are, I have created a small game that allows you to take the place of a remote cashier reviewing orders in a grocery store. You can play it here: 
-https://studio.code.org/projects/applab/m5GiGGxkOGNgLzk9sJ3Y56rhjXop6fy91gCPPyORyEc
-(this will become its own page with a more in-depth explanation.)
+Check out the activity here: 
+[Go to Activity](/ethics_fall2025/casestudy/activity/)
 
 ---
 Discussion Questions
