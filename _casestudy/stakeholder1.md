@@ -3,3 +3,7 @@ title: "Employees"
 layout: archive
 ---
 Employees are at present the most at stake in this issue, as in-store workers have the potential of losing their jobs to pseudo-ai while overseas workers could be further taken advantage of. Though cashier positions have already somewhat declined due to self-checkout registers, companies have acknowledged the importance of in-store associates for helping to prevent petty theft and fraud. Fraud especially could be easier to combat if people need to scan in with their account right at the entrance, but theft would be an issue as the system is still prone to both intentional and unintentional spoofing [[5](https://www.cnbc.com/2018/01/22/amazon-go-grocery-store-opened-and-we-accidentally-stole-a-yogurt.html)]. Overseas data work will only continue to rise however, as it’s been proven cheap and useful for upcoming AI startups in expediting their tech, with Amazon possibly seizing the same opportunity as well. This is especially concerning, since companies have a horrible track record of compensating data workers appropriately considering the traumatic things that many are exposed to. Employees in both aspects should be cautious then, as it’s clear Amazon is not afraid to promote such systems despite the labor impact it could have.
+
+[Go to Business Owners](/ethics_fall2025/casestudy/stakeholder2/)
+
+[← Back to Main Case Study](/ethics_fall2025/casestudy/)

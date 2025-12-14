@@ -6,3 +6,6 @@ Businesses should definitely be aware of the potential negative consequences of 
 
 It should also be noted that cashiers really only make up a small part of how grocery stores function. Logistically, you still need people to clean up, manage stock, organize shelves, and more—which are exceptionally more difficult to replace roles. Even in the event that cashiers are successfully replaced, the operation will still necessitate humans at the core to ensure it runs correctly. This is all to say that given AI’s current capabilities, it’s a fruitless effort to try and jump the gun by implementing the tech early. “[W]e keep hearing that automation and AI are tools to remove boring and repetitive tasks. Amazon's example reveals that isn't yet possible in a real-world environment, at least not without remote workers overseeing the whole transaction.” [[2](https://www.proquest.com/ataindex/docview/3052557259/4F010850C79A4050PQ/5?accountid=351&sourcetype=Magazines)] Human labor will continue to be necessary until this technology proves to work independently, so it doesn’t make sense to waste billions in forcing it upon customers right away.
 
+[Go to Employees](/ethics_fall2025/casestudy/stakeholder1/)
+
+[← Back to Main Case Study](/ethics_fall2025/casestudy/)
