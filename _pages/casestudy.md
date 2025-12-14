@@ -19,6 +19,8 @@ Learning Objectives
 
 - To educate readers on the exploitation of data workers overseas
 
+- To help understand the broader implications of AI in the workforce
+
 ---
 
 ## Introduction
