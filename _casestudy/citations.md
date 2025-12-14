@@ -15,3 +15,5 @@ layout: archive
 [5] [Bosa, D., & Salinas, S. (2018, January 22). We accidentally took a yogurt from Amazon’s new grocery store without paying, but Amazon told us to keep it. CNBC.](https://www.cnbc.com/2018/01/22/amazon-go-grocery-store-opened-and-we-accidentally-stole-a-yogurt.html)
 
 [6] [Perrigo, B. (2022, February 17). Inside Facebook’s African Sweatshop. Time.](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/)
+
+[← Back to Main Case Study](/ethics_fall2025/casestudy/)
